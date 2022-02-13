@@ -2,5 +2,6 @@
     display: flex;
     justify-content: center;
     margin: auto;
+    height: 38px;
     width: 270px;
   }
