@@ -1,0 +1,19 @@
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }  
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .header {
+    display: flex;
+    position: relative;
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    background-color: #f2f2f2;
+    position: relative;
+    overflow: hidden;
+  }
