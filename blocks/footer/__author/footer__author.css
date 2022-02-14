@@ -4,3 +4,8 @@
     font-weight: normal;
     margin: 18px 0 18px;
   }
+
+  .footer__author::before {
+    content: "\A9";
+    margin-right: 5px;
+  }
